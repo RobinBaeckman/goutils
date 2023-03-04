@@ -1,3 +1,4 @@
+// package for various utils
 package goutils
 
 import (
